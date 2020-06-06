@@ -28,6 +28,7 @@ Our issue tracker is available here: [link](https://github.com/Sudarshan-Gowda/S
 ### prerequisites
 The following items should be installed in your system:
 * STS - 3.0 Plus
+* MySQL
 * Postman or Any Rest API Testing tool
 
 ### Steps:
