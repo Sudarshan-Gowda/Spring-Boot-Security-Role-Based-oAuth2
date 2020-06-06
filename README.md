@@ -8,8 +8,8 @@ To secure your Restfull web services, there are many ways available, you can sec
 This repo will demonstate how to secure your API's based on user Role by using oAuth2 as well as JSON web token.
 <br>
 
-Dependecies used for this repo is `spring-security-oauth2` and `spring-security-jwt`
-<img src="" width=""/>
+Dependecies used for this repo is `spring-security-oauth2` and `spring-security-jwt` <br>
+<img src="https://github.com/Sudarshan-Gowda/Spring-Boot-Security-Role-Based-oAuth2/blob/master/docs/Dependencies.PNG"/>
 <br>
  
 Used annotation `@Secured` annotation to enable role basis access to each API, ex: `@Secured({ ROLE_ADMIN })`
@@ -34,7 +34,7 @@ The following items should be installed in your system:
 
 1) Download this Project and do maven import.
 ```
-git clone https://github.com/Sudarshan-Gowda/Spring-Boot-Rest-Template
+git clone https://github.com/https://github.com/Sudarshan-Gowda/Spring-Boot-Security-Role-Based-oAuth2.git
 ```
 2) To Import the Praject Using STS or Eclipse
 ```
